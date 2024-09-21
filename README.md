@@ -7,7 +7,7 @@ The folder contains the following:
   - Question and answer
   - Example code
 
-Folde structure is as follows:
+Folder structure is as follows:
 - AccuknoxAssignment
   - Custom Classes
     - Rectangle.py
